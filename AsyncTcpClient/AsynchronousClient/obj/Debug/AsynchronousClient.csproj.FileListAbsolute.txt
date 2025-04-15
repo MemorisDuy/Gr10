@@ -1,0 +1,6 @@
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\bin\Debug\AsynchronousClient.exe.config
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\bin\Debug\AsynchronousClient.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\bin\Debug\AsynchronousClient.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\obj\Debug\AsynchronousClient.csproj.CoreCompileInputs.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\obj\Debug\AsynchronousClient.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsynchronousClient\obj\Debug\AsynchronousClient.pdb

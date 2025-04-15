@@ -1,0 +1,21 @@
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.AsyncTcpClient.resources
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.Properties.Resources.resources
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.GenerateResource.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.CoreCompileInputs.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe.config
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.AssemblyReference.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe.config
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.exe
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\bin\Debug\AsyncTcpClient.pdb
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.AssemblyReference.cache
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.AsyncTcpClient.resources
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.Properties.Resources.resources
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.GenerateResource.cache
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.exe
+C:\Users\dongk\Downloads\08code\08code\AsyncTcpClient\obj\Debug\AsyncTcpClient.pdb
