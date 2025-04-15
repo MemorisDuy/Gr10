@@ -1,0 +1,13 @@
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.exe.config
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.csproj.CoreCompileInputs.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.pdb
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.exe.config
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.exe
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\bin\Debug\TcpPollSrvr.pdb
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.csproj.AssemblyReference.cache
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.csproj.CoreCompileInputs.cache
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.exe
+C:\Users\dongk\Downloads\08code\08code\TcpPollSrvr\obj\Debug\TcpPollSrvr.pdb

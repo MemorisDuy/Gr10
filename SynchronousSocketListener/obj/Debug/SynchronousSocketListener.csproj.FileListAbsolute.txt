@@ -1,0 +1,13 @@
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe.config
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csproj.CoreCompileInputs.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.pdb
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe.config
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.exe
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\bin\Debug\SynchronousSocketListener.pdb
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csproj.AssemblyReference.cache
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.csproj.CoreCompileInputs.cache
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.exe
+C:\Users\dongk\Downloads\08code\08code\SynchronousSocketListener\obj\Debug\SynchronousSocketListener.pdb

@@ -1,0 +1,14 @@
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.exe.config
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.csproj.CoreCompileInputs.cache
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.exe
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.pdb
+E:\UT\DeCuong\123013 - NETWORK PROGRAMMING\C#NetworkProgramming\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.csprojAssemblyReference.cache
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.exe.config
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.exe
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\bin\Debug\SelectTcpSrvr.pdb
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.csproj.AssemblyReference.cache
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.csproj.CoreCompileInputs.cache
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.exe
+C:\Users\dongk\Downloads\08code\08code\SelectTcpSrvr\obj\Debug\SelectTcpSrvr.pdb
